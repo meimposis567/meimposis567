@@ -1,13 +1,12 @@
 # Hey there! 👋
 
-I'm Akash, a developer who enjoys building things with AI and software.
+I'm Akash, a developer who tends to turn “what if?” into “let's build it.”
 
-I like taking ideas from a rough concept to something that actually works. Most of my projects involve AI/ML, full-stack development, or a mix of both.
+I enjoy experimenting with AI, exploring new technologies, and turning rough ideas into simple, useful software.
 
-I've built Growlify, an AI-powered urban farming platform, MeVo, an AI meeting intelligence platform, and Ascendo AI, a multi-agent business growth system.
+Most of my learning happens somewhere between writing code, breaking things, fixing them, and discovering better ways to build.
 
-I'm also into hackathons, experiments, and trying out ideas that are a little different.
-
+Always curious. Usually building. Occasionally debugging at 2 AM. 🌙
 ---
 
 ## 🛠️ Tools & Tech
@@ -31,7 +30,3 @@ I'm also into hackathons, experiments, and trying out ideas that are a little di
 
 ---
 
-## 📫 Find Me
-
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [Email](mailto:YOUR_EMAIL)
