@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">
-  ✦ “Just enough chaos to build something interesting..” ✦
+   “Just enough chaos to build something interesting..” 
 </h2>
 
 ---
@@ -19,22 +19,6 @@ I'm **Akash**, a developer who likes turning **“what if?”** into something w
 I enjoy exploring AI, trying out new technologies, and finding simple ways to tackle problems that aren't so simple.
 
 I learn by building — starting from scratch, trying things out, breaking them, figuring out what went wrong, and making the next version better.
-
----
-
-## 🧩 A Bit About Me
-
-<div align="center">
-
-| | |
-|---|---|
-| 🧩 | I like turning ideas into projects |
-| 🧪 | I enjoy experimenting with AI |
-| 🏆 | Hackathons are where I build under pressure |
-| 🔍 | I like understanding how things work |
-| 🌱 | Usually working on something new |
-
-</div>
 
 ---
 
@@ -62,19 +46,6 @@ I learn by building — starting from scratch, trying things out, breaking them,
 
 ---
 
-<div align="center">
-
-## 📊 GitHub
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=meimposis567&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=meimposis567&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🌌 Find Me
 
