@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-I'm Akash, a developer who likes turning “what if?” into something worth building.
+I'm Akash, a developer who enjoys turning interesting ideas into things that actually work.
 
-I enjoy exploring AI, experimenting with new technologies, and finding simple ways to solve problems that don't have simple answers.
+I like building across AI, software, and full-stack development — exploring new technologies, solving problems, and figuring things out along the way.
 
-I learn by getting my hands dirty — building from scratch, breaking things apart, understanding why they broke, and coming back with a better version.
+I learn best by building. Start with an idea, write some code, break a few things, understand what went wrong, and keep improving until it becomes something I'm proud of.
 
 <h2 align="center"> “Just enough chaos to build something interesting..” </h2>
 
