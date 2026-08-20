@@ -1,13 +1,12 @@
 # Hey there! 👋
 
-I'm Akash, a developer who tends to turn “what if?” into “let's build it.”
+I'm Akash, a developer who likes turning “what if?” into something worth building.
 
-I enjoy experimenting with AI, exploring new technologies, and turning rough ideas into simple, useful software.
+I enjoy exploring AI, experimenting with new technologies, and finding simple ways to solve problems that don't have simple answers.
 
-Most of my learning happens somewhere between writing code, breaking things, fixing them, and discovering better ways to build.
+I learn by getting my hands dirty — building from scratch, breaking things apart, understanding why they broke, and coming back with a better version.
 
-Always curious. Usually building. Occasionally debugging at 2 AM. 🌙
-
+<h2 align="center"> “I don't chase finished ideas — I chase the questions that make me want to build.” </h2>
 ---
 
 ## 🛠️ Tools & Tech
