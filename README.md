@@ -6,7 +6,7 @@ I enjoy exploring AI, experimenting with new technologies, and finding simple wa
 
 I learn by getting my hands dirty — building from scratch, breaking things apart, understanding why they broke, and coming back with a better version.
 
-<h2 align="center"> “I don't chase finished ideas — I chase the questions that make me want to build.” </h2>
+<h2 align="center"> “Just enough chaos to build something interesting..” </h2>
 
 ## 🛠️ Tools & Tech
 
