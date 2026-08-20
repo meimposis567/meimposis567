@@ -1,80 +1,114 @@
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20There,%20I'm%20Akash%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Turning%20%22what%20if%3F%22%20into%20something%20worth%20building&descAlignY=55&descSize=18" width="100%"/>
 
-# Hey there! 👋
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Developer+%7C+AI+Explorer+%7C+Builder;Python+%E2%80%A2+ML%2FDL+%E2%80%A2+AI+Agents;Just+enough+chaos+to+build+something+interesting" alt="Typing SVG" />
 
 </div>
 
-I'm Akash, a developer who likes turning “what if?” into something worth building. I enjoy exploring AI, trying out new technologies, and finding simple ways to tackle problems that aren't so simple. I learn by building — starting from scratch, trying things out, breaking them, figuring out what went wrong, and making the next version better.
+<h2 align="center">✦ "Just enough chaos to build something interesting.." ✦</h2>
 
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-<div align="center">
+---
 
-### <br>
-
-<h2 align="center"> “Just enough chaos to build something interesting..” </h2>
-
-<br>
-
-</div>
-
-<br>
-<br>
-
-## 🛠️ Tools & Tech
-
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="33%">
+<td width="60%" valign="top">
 
-**Languages**
-Python
-Java
-JavaScript
+### 🌸 About Me
+
+I'm a developer who likes turning **"what if?"** into something worth building. I enjoy exploring AI, trying out new technologies, and finding simple ways to tackle problems that aren't so simple. I learn by building — starting from scratch, trying things out, breaking them, figuring out what went wrong, and making the next version better.
+
+```yaml
+me:
+  role: "Developer & AI Explorer"
+  mindset: "Build → Break → Debug → Rebuild, but better"
+  fuel: "Curiosity + Coffee + Hackathon Adrenaline"
+  currently: "Working on something new 🌱"
+```
 
 </td>
-<td valign="top" width="33%">
+<td width="40%" valign="top" align="center">
 
-**Frameworks & Data**
-React, Node.js, FastAPI
-MongoDB, REST APIs
-
-</td>
-<td valign="top" width="33%">
-
-**AI / ML**
-Machine Learning & Deep Learning
-Computer Vision & NLP
-LangGraph & AI Agents
+<img src="https://raw.githubusercontent.com/aayushdadhich2005/aayushdadhich2005/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
 
-<br>
-
-## A Bit About Me
-
-&nbsp;&nbsp;🧩&nbsp;&nbsp; I like turning ideas into projects
-&nbsp;&nbsp;🧪&nbsp;&nbsp; I enjoy experimenting with AI
-&nbsp;&nbsp;🏆&nbsp;&nbsp; Hackathons are where I build under pressure
-&nbsp;&nbsp;🔍&nbsp;&nbsp; I like understanding how things work
-&nbsp;&nbsp;🌱&nbsp;&nbsp; Usually working on something new
-
-<br>
-<br>
+### 🧩 A Bit About Me
 
 <div align="center">
 
-⋆
+| | |
+|---|---|
+| 🧩 | I like turning ideas into projects |
+| 🧪 | I enjoy experimenting with AI |
+| 🏆 | Hackathons are where I build under pressure |
+| 🔍 | I like understanding how things work |
+| 🌱 | Usually working on something new |
 
+</div>
+
+---
+
+### 🛠️ Tools & Tech
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+
+**Frameworks & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi" />
+
+**Data & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph%20%26%20AI%20Agents-6E56CF?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 Connect & Explore
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+<div align="center">
+<i>"Every bug is just a plot twist waiting to be resolved."</i>
 </div>
