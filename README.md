@@ -8,6 +8,8 @@ Most of my learning happens through building. I experiment, get things wrong, fi
 
 I enjoy hackathons, challenging ideas, and the kind of problems that make me curious enough to keep working on them long after the first line of code.
 
+“I tend to turn ‘what if?’ into ‘let's build it.”
+
 ---
 
 ## 🛠️ Tools & Tech
