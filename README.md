@@ -53,7 +53,7 @@ I learn by building — starting from scratch, trying things out, breaking them,
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/akash-s-m-9995142a1">
+<a href="https://www.linkedin.com/in/akash-s-m-9995142a1?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
