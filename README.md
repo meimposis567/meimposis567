@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hey%20There,%20I'm%20Akash%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Turning%20%22what%20if%3F%22%20into%20something%20worth%20building&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hey%20There,%20I'm%20Akash S.M%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Turning%20%22what%20if%3F%22%20into%20something%20worth%20building&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Developer+%7C+AI+Explorer+%7C+Builder;AI%2FML+%E2%80%A2+Full-Stack+%E2%80%A2+Intelligent+Systems" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ## 🌸 About Me
 
-I'm **Akash**, a developer who likes turning **“what if?”** into something worth building.
+I'm **Akash S.M**, a developer who likes turning **“what if?”** into something worth building.
 
 I enjoy exploring AI, trying out new technologies, and finding simple ways to tackle problems that aren't so simple.
 
