@@ -35,7 +35,7 @@ I learn by building — starting from scratch, trying things out, breaking them,
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="assets/ayanokoji-window.gif" width="400"/>
+<img src="https://media.tenor.com/x7xH_9vifLcAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif" width="400"/>
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ I learn by building — starting from scratch, trying things out, breaking them,
 <tr>
 <td width="42%" align="center" valign="middle">
 
-<img src="assets/ayanokoji-think.gif" width="400"/>
+<img src="https://media.tenor.com/RfXq8mB2oe0AAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif" width="400"/>
 
 </td>
 <td width="58%" align="center" valign="middle">
@@ -143,7 +143,7 @@ I learn by building — starting from scratch, trying things out, breaking them,
 
 <br><br>
 
-<img src="assets/ayanokoji-night.gif" width="500"/>
+<img src="https://media.tenor.com/lmJ45jKHnkEAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif" width="500"/>
 
 <br><br>
 
